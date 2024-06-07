@@ -10,6 +10,8 @@ int main(){
     if (a==b && b==c)
     {
         printf("Todos os valores tem o valor igual\n");
+    } else{
+        printf("O Valor das variaves sao diferentes\n");
     }
     
 
